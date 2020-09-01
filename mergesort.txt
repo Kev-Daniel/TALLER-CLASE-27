@@ -1,0 +1,2 @@
+Arreglo original : 49 17 16 44 2 26 
+Arreglo ordenado : 2 16 17 26 44 49 
